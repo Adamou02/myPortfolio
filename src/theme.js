@@ -195,4 +195,4 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
-export const chosenTheme = blueTheme;
+export const chosenTheme = materialDarkTheme; //blueTheme en light mode et darkmode moche sur la page experience
